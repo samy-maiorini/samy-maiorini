@@ -1,6 +1,7 @@
+<h1> Welcome to my profile, I'm </h1> <span style="color:red;">Samy!</span>
+
 - 👋 Hi, I’m @samy-maiorini
 - 👀 I’m interested in Football (the real one, the brazilian), Santos FC, programming and learning.
-- 🌱 I’m currently learning Java (I'm trying)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I broke the same leg at the same place 2 times.
 
