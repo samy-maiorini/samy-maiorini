@@ -1,4 +1,4 @@
-<h1> Welcome to my profile, I'm </h1> <span style="color:red;">Samy!</span>
+<h1> Welcome to my profile, I'm </h1> <h1 style="color:red;">Samy!</h1>
 
 - 👋 Hi, I’m @samy-maiorini
 - 👀 I’m interested in Football (the real one, the brazilian), Santos FC, programming and learning.
