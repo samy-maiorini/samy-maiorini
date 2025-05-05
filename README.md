@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello World! My name is <strong>Samy Maiorini</strong> and that's my profile.<br>
+  Hello World!<br> My name is <b>Samy Maiorini</b> and that's my profile.<br>
   I'm working rn as a graphic and web designer in a small company, and i'm studiyng at a high school/programming technical education school.
 </p>
 
 <p align="left">
-  🦄 Languages: **<B>PHP, HTML, CSS</B>, JS, C#, C++ & Kotlin.**
+  🦄 Languages: **<b>PHP, HTML, CSS</b>, JS, C#, C++ & Kotlin.**
 </p>
 
 <p align="left">
@@ -29,29 +29,3 @@
 
 
 
-
-<!---
-samy-maiorini/samy-maiorini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
-</style>
-<h1> Welcome to my profile, I'm Samy!</h1>
-<h2>That's my GitHub, be my guest.</h2>
-</head>
-<body>
-
-
-<p>
-- 👋 Hi, I’m @samy-maiorini <br>
-- 👀 I’m interested in Football (the real one, not the american), Santos FC, programming and learning. <br>
-- 😄 Pronouns: He/Him. <br>
-- ⚡ Fun fact: I broke the same leg at the same place 2 times.</p>
-
-</body>
-</html>
---->
